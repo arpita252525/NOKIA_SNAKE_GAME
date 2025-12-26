@@ -5,7 +5,7 @@
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10+-orange.svg)](https://mediapipe.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Created by Tuba Khan**
+
 
 A classic Nokia Snake game controlled by hand gestures via webcam using MediaPipe and OpenCV. Experience the nostalgia of Nokia Snake with modern AI-powered gesture recognition!
 
@@ -204,3 +204,4 @@ This project is open source and available under the MIT License.
 
 
 **Enjoy playing Nokia Snake with hand gestures! 🐍👋**
+
